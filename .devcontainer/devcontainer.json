@@ -1,0 +1,17 @@
+{
+	"name": "Ubuntu",
+	"build": {
+		"dockerfile": "Dockerfile",
+		"args": {
+			"platform": "linux/amd64",
+		},
+	},
+	"runArgs": [
+		"--platform=linux/amd64",
+	],
+	"settings": {},
+	"extensions": [
+		"rust-lang.rust",
+	],
+	"remoteUser": "vscode"
+}
