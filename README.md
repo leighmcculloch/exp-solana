@@ -1,6 +1,6 @@
 # Experimenting with Solana
 
-Experiments with Solana contracts.
+Experiments with Solana programs.
 
 ## Setup
 
